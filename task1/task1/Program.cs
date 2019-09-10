@@ -12,8 +12,8 @@ namespace task1
             double h = 0.1;
             double e = 0.0001;
             double prev1 = 0, prev2 = 0, prev3 = 0;
-            StringBuilder x_first = new StringBuilder(), sum_x_first = new StringBuilder(), f1 = new StringBuilder();
-            StringBuilder f2 = new StringBuilder(); StringBuilder f3 = new StringBuilder();
+            StringBuilder x_first = new StringBuilder(), sum_x_first = new StringBuilder(),
+                f1 = new StringBuilder(), f2 = new StringBuilder(), f3 = new StringBuilder();
             for (double x = a; x <= b; x += h) //Выбираем x из заданного отрезка
             {
                 x_first.Append(x + " | ");
