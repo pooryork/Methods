@@ -1,0 +1,11 @@
+C:\Универ\5 семестр\Методы вычислений\Methods\task2\task2\bin\Debug\netcoreapp2.1\task2.deps.json
+C:\Универ\5 семестр\Методы вычислений\Methods\task2\task2\bin\Debug\netcoreapp2.1\task2.runtimeconfig.json
+C:\Универ\5 семестр\Методы вычислений\Methods\task2\task2\bin\Debug\netcoreapp2.1\task2.runtimeconfig.dev.json
+C:\Универ\5 семестр\Методы вычислений\Methods\task2\task2\bin\Debug\netcoreapp2.1\task2.dll
+C:\Универ\5 семестр\Методы вычислений\Methods\task2\task2\bin\Debug\netcoreapp2.1\task2.pdb
+C:\Универ\5 семестр\Методы вычислений\Methods\task2\task2\obj\Debug\netcoreapp2.1\task2.csprojAssemblyReference.cache
+C:\Универ\5 семестр\Методы вычислений\Methods\task2\task2\obj\Debug\netcoreapp2.1\task2.csproj.CoreCompileInputs.cache
+C:\Универ\5 семестр\Методы вычислений\Methods\task2\task2\obj\Debug\netcoreapp2.1\task2.AssemblyInfoInputs.cache
+C:\Универ\5 семестр\Методы вычислений\Methods\task2\task2\obj\Debug\netcoreapp2.1\task2.AssemblyInfo.cs
+C:\Универ\5 семестр\Методы вычислений\Methods\task2\task2\obj\Debug\netcoreapp2.1\task2.dll
+C:\Универ\5 семестр\Методы вычислений\Methods\task2\task2\obj\Debug\netcoreapp2.1\task2.pdb

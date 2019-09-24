@@ -1,0 +1,10 @@
+C:\Универ\5 семестр\Методы вычислений\Methods\task2-LaGrange\task2\bin\Debug\netcoreapp2.1\task2-LaGrange.deps.json
+C:\Универ\5 семестр\Методы вычислений\Methods\task2-LaGrange\task2\bin\Debug\netcoreapp2.1\task2-LaGrange.runtimeconfig.json
+C:\Универ\5 семестр\Методы вычислений\Methods\task2-LaGrange\task2\bin\Debug\netcoreapp2.1\task2-LaGrange.runtimeconfig.dev.json
+C:\Универ\5 семестр\Методы вычислений\Methods\task2-LaGrange\task2\bin\Debug\netcoreapp2.1\task2-LaGrange.dll
+C:\Универ\5 семестр\Методы вычислений\Methods\task2-LaGrange\task2\bin\Debug\netcoreapp2.1\task2-LaGrange.pdb
+C:\Универ\5 семестр\Методы вычислений\Methods\task2-LaGrange\task2\obj\Debug\netcoreapp2.1\task2-LaGrange.csproj.CoreCompileInputs.cache
+C:\Универ\5 семестр\Методы вычислений\Methods\task2-LaGrange\task2\obj\Debug\netcoreapp2.1\task2-LaGrange.AssemblyInfoInputs.cache
+C:\Универ\5 семестр\Методы вычислений\Methods\task2-LaGrange\task2\obj\Debug\netcoreapp2.1\task2-LaGrange.AssemblyInfo.cs
+C:\Универ\5 семестр\Методы вычислений\Methods\task2-LaGrange\task2\obj\Debug\netcoreapp2.1\task2-LaGrange.dll
+C:\Универ\5 семестр\Методы вычислений\Methods\task2-LaGrange\task2\obj\Debug\netcoreapp2.1\task2-LaGrange.pdb

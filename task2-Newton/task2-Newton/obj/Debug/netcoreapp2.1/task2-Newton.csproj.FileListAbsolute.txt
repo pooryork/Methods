@@ -1,0 +1,11 @@
+C:\Универ\5 семестр\Методы вычислений\Methods\task2-Newton\task2-Newton\bin\Debug\netcoreapp2.1\task2-Newton.deps.json
+C:\Универ\5 семестр\Методы вычислений\Methods\task2-Newton\task2-Newton\bin\Debug\netcoreapp2.1\task2-Newton.runtimeconfig.json
+C:\Универ\5 семестр\Методы вычислений\Methods\task2-Newton\task2-Newton\bin\Debug\netcoreapp2.1\task2-Newton.runtimeconfig.dev.json
+C:\Универ\5 семестр\Методы вычислений\Methods\task2-Newton\task2-Newton\bin\Debug\netcoreapp2.1\task2-Newton.dll
+C:\Универ\5 семестр\Методы вычислений\Methods\task2-Newton\task2-Newton\bin\Debug\netcoreapp2.1\task2-Newton.pdb
+C:\Универ\5 семестр\Методы вычислений\Methods\task2-Newton\task2-Newton\obj\Debug\netcoreapp2.1\task2-Newton.csprojAssemblyReference.cache
+C:\Универ\5 семестр\Методы вычислений\Methods\task2-Newton\task2-Newton\obj\Debug\netcoreapp2.1\task2-Newton.csproj.CoreCompileInputs.cache
+C:\Универ\5 семестр\Методы вычислений\Methods\task2-Newton\task2-Newton\obj\Debug\netcoreapp2.1\task2-Newton.AssemblyInfoInputs.cache
+C:\Универ\5 семестр\Методы вычислений\Methods\task2-Newton\task2-Newton\obj\Debug\netcoreapp2.1\task2-Newton.AssemblyInfo.cs
+C:\Универ\5 семестр\Методы вычислений\Methods\task2-Newton\task2-Newton\obj\Debug\netcoreapp2.1\task2-Newton.dll
+C:\Универ\5 семестр\Методы вычислений\Methods\task2-Newton\task2-Newton\obj\Debug\netcoreapp2.1\task2-Newton.pdb
