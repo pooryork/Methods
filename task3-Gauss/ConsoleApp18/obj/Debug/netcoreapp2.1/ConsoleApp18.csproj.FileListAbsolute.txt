@@ -1,0 +1,11 @@
+C:\Универ\5 семестр\Методы вычислений\Methods\task3-Gauss\ConsoleApp18\bin\Debug\netcoreapp2.1\ConsoleApp18.deps.json
+C:\Универ\5 семестр\Методы вычислений\Methods\task3-Gauss\ConsoleApp18\bin\Debug\netcoreapp2.1\ConsoleApp18.runtimeconfig.json
+C:\Универ\5 семестр\Методы вычислений\Methods\task3-Gauss\ConsoleApp18\bin\Debug\netcoreapp2.1\ConsoleApp18.runtimeconfig.dev.json
+C:\Универ\5 семестр\Методы вычислений\Methods\task3-Gauss\ConsoleApp18\bin\Debug\netcoreapp2.1\ConsoleApp18.dll
+C:\Универ\5 семестр\Методы вычислений\Methods\task3-Gauss\ConsoleApp18\bin\Debug\netcoreapp2.1\ConsoleApp18.pdb
+C:\Универ\5 семестр\Методы вычислений\Methods\task3-Gauss\ConsoleApp18\obj\Debug\netcoreapp2.1\ConsoleApp18.csprojAssemblyReference.cache
+C:\Универ\5 семестр\Методы вычислений\Methods\task3-Gauss\ConsoleApp18\obj\Debug\netcoreapp2.1\ConsoleApp18.csproj.CoreCompileInputs.cache
+C:\Универ\5 семестр\Методы вычислений\Methods\task3-Gauss\ConsoleApp18\obj\Debug\netcoreapp2.1\ConsoleApp18.AssemblyInfoInputs.cache
+C:\Универ\5 семестр\Методы вычислений\Methods\task3-Gauss\ConsoleApp18\obj\Debug\netcoreapp2.1\ConsoleApp18.AssemblyInfo.cs
+C:\Универ\5 семестр\Методы вычислений\Methods\task3-Gauss\ConsoleApp18\obj\Debug\netcoreapp2.1\ConsoleApp18.dll
+C:\Универ\5 семестр\Методы вычислений\Methods\task3-Gauss\ConsoleApp18\obj\Debug\netcoreapp2.1\ConsoleApp18.pdb
