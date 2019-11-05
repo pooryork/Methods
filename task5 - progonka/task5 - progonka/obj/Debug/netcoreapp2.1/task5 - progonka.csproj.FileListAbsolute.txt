@@ -1,0 +1,11 @@
+C:\Универ\5 семестр\Методы вычислений\Methods\task5 - progonka\task5 - progonka\bin\Debug\netcoreapp2.1\task5 - progonka.deps.json
+C:\Универ\5 семестр\Методы вычислений\Methods\task5 - progonka\task5 - progonka\bin\Debug\netcoreapp2.1\task5 - progonka.runtimeconfig.json
+C:\Универ\5 семестр\Методы вычислений\Methods\task5 - progonka\task5 - progonka\bin\Debug\netcoreapp2.1\task5 - progonka.runtimeconfig.dev.json
+C:\Универ\5 семестр\Методы вычислений\Methods\task5 - progonka\task5 - progonka\bin\Debug\netcoreapp2.1\task5 - progonka.dll
+C:\Универ\5 семестр\Методы вычислений\Methods\task5 - progonka\task5 - progonka\bin\Debug\netcoreapp2.1\task5 - progonka.pdb
+C:\Универ\5 семестр\Методы вычислений\Methods\task5 - progonka\task5 - progonka\obj\Debug\netcoreapp2.1\task5 - progonka.csprojAssemblyReference.cache
+C:\Универ\5 семестр\Методы вычислений\Methods\task5 - progonka\task5 - progonka\obj\Debug\netcoreapp2.1\task5 - progonka.csproj.CoreCompileInputs.cache
+C:\Универ\5 семестр\Методы вычислений\Methods\task5 - progonka\task5 - progonka\obj\Debug\netcoreapp2.1\task5 - progonka.AssemblyInfoInputs.cache
+C:\Универ\5 семестр\Методы вычислений\Methods\task5 - progonka\task5 - progonka\obj\Debug\netcoreapp2.1\task5 - progonka.AssemblyInfo.cs
+C:\Универ\5 семестр\Методы вычислений\Methods\task5 - progonka\task5 - progonka\obj\Debug\netcoreapp2.1\task5 - progonka.dll
+C:\Универ\5 семестр\Методы вычислений\Methods\task5 - progonka\task5 - progonka\obj\Debug\netcoreapp2.1\task5 - progonka.pdb
