@@ -1,0 +1,11 @@
+C:\Users\artyo\source\repos\task6 - MethodOfSimpleIterations\task6 - MethodOfSimpleIterations\bin\Debug\netcoreapp2.1\task6 - MethodOfSimpleIterations.deps.json
+C:\Users\artyo\source\repos\task6 - MethodOfSimpleIterations\task6 - MethodOfSimpleIterations\bin\Debug\netcoreapp2.1\task6 - MethodOfSimpleIterations.runtimeconfig.json
+C:\Users\artyo\source\repos\task6 - MethodOfSimpleIterations\task6 - MethodOfSimpleIterations\bin\Debug\netcoreapp2.1\task6 - MethodOfSimpleIterations.runtimeconfig.dev.json
+C:\Users\artyo\source\repos\task6 - MethodOfSimpleIterations\task6 - MethodOfSimpleIterations\bin\Debug\netcoreapp2.1\task6 - MethodOfSimpleIterations.dll
+C:\Users\artyo\source\repos\task6 - MethodOfSimpleIterations\task6 - MethodOfSimpleIterations\bin\Debug\netcoreapp2.1\task6 - MethodOfSimpleIterations.pdb
+C:\Users\artyo\source\repos\task6 - MethodOfSimpleIterations\task6 - MethodOfSimpleIterations\obj\Debug\netcoreapp2.1\task6 - MethodOfSimpleIterations.csprojAssemblyReference.cache
+C:\Users\artyo\source\repos\task6 - MethodOfSimpleIterations\task6 - MethodOfSimpleIterations\obj\Debug\netcoreapp2.1\task6 - MethodOfSimpleIterations.csproj.CoreCompileInputs.cache
+C:\Users\artyo\source\repos\task6 - MethodOfSimpleIterations\task6 - MethodOfSimpleIterations\obj\Debug\netcoreapp2.1\task6 - MethodOfSimpleIterations.AssemblyInfoInputs.cache
+C:\Users\artyo\source\repos\task6 - MethodOfSimpleIterations\task6 - MethodOfSimpleIterations\obj\Debug\netcoreapp2.1\task6 - MethodOfSimpleIterations.AssemblyInfo.cs
+C:\Users\artyo\source\repos\task6 - MethodOfSimpleIterations\task6 - MethodOfSimpleIterations\obj\Debug\netcoreapp2.1\task6 - MethodOfSimpleIterations.dll
+C:\Users\artyo\source\repos\task6 - MethodOfSimpleIterations\task6 - MethodOfSimpleIterations\obj\Debug\netcoreapp2.1\task6 - MethodOfSimpleIterations.pdb
