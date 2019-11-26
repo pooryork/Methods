@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Универ\\5 семестр\\Методы вычислений\\Methods\\task6 - MethodOfSimpleIterations\\task6 - MethodOfSimpleIterations\\task6 - MethodOfSimpleIterations.csproj": {}
+    "C:\\Users\\artyo\\source\\repos\\task7 - EulerMethod\\task7 - EulerMethod\\task7 - EulerMethod.csproj": {}
   },
   "projects": {
-    "C:\\Универ\\5 семестр\\Методы вычислений\\Methods\\task6 - MethodOfSimpleIterations\\task6 - MethodOfSimpleIterations\\task6 - MethodOfSimpleIterations.csproj": {
+    "C:\\Users\\artyo\\source\\repos\\task7 - EulerMethod\\task7 - EulerMethod\\task7 - EulerMethod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Универ\\5 семестр\\Методы вычислений\\Methods\\task6 - MethodOfSimpleIterations\\task6 - MethodOfSimpleIterations\\task6 - MethodOfSimpleIterations.csproj",
-        "projectName": "task6 - MethodOfSimpleIterations",
-        "projectPath": "C:\\Универ\\5 семестр\\Методы вычислений\\Methods\\task6 - MethodOfSimpleIterations\\task6 - MethodOfSimpleIterations\\task6 - MethodOfSimpleIterations.csproj",
+        "projectUniqueName": "C:\\Users\\artyo\\source\\repos\\task7 - EulerMethod\\task7 - EulerMethod\\task7 - EulerMethod.csproj",
+        "projectName": "task7 - EulerMethod",
+        "projectPath": "C:\\Users\\artyo\\source\\repos\\task7 - EulerMethod\\task7 - EulerMethod\\task7 - EulerMethod.csproj",
         "packagesPath": "C:\\Users\\artyo\\.nuget\\packages\\",
-        "outputPath": "C:\\Универ\\5 семестр\\Методы вычислений\\Methods\\task6 - MethodOfSimpleIterations\\task6 - MethodOfSimpleIterations\\obj\\",
+        "outputPath": "C:\\Users\\artyo\\source\\repos\\task7 - EulerMethod\\task7 - EulerMethod\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

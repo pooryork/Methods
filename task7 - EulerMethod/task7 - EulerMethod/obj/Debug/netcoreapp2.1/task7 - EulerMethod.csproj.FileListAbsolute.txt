@@ -1,0 +1,11 @@
+C:\Users\artyo\source\repos\task7 - EulerMethod\task7 - EulerMethod\obj\Debug\netcoreapp2.1\task7 - EulerMethod.csprojAssemblyReference.cache
+C:\Users\artyo\source\repos\task7 - EulerMethod\task7 - EulerMethod\obj\Debug\netcoreapp2.1\task7 - EulerMethod.csproj.CoreCompileInputs.cache
+C:\Users\artyo\source\repos\task7 - EulerMethod\task7 - EulerMethod\obj\Debug\netcoreapp2.1\task7 - EulerMethod.AssemblyInfoInputs.cache
+C:\Users\artyo\source\repos\task7 - EulerMethod\task7 - EulerMethod\obj\Debug\netcoreapp2.1\task7 - EulerMethod.AssemblyInfo.cs
+C:\Users\artyo\source\repos\task7 - EulerMethod\task7 - EulerMethod\bin\Debug\netcoreapp2.1\task7 - EulerMethod.deps.json
+C:\Users\artyo\source\repos\task7 - EulerMethod\task7 - EulerMethod\bin\Debug\netcoreapp2.1\task7 - EulerMethod.runtimeconfig.json
+C:\Users\artyo\source\repos\task7 - EulerMethod\task7 - EulerMethod\bin\Debug\netcoreapp2.1\task7 - EulerMethod.runtimeconfig.dev.json
+C:\Users\artyo\source\repos\task7 - EulerMethod\task7 - EulerMethod\bin\Debug\netcoreapp2.1\task7 - EulerMethod.dll
+C:\Users\artyo\source\repos\task7 - EulerMethod\task7 - EulerMethod\bin\Debug\netcoreapp2.1\task7 - EulerMethod.pdb
+C:\Users\artyo\source\repos\task7 - EulerMethod\task7 - EulerMethod\obj\Debug\netcoreapp2.1\task7 - EulerMethod.dll
+C:\Users\artyo\source\repos\task7 - EulerMethod\task7 - EulerMethod\obj\Debug\netcoreapp2.1\task7 - EulerMethod.pdb
