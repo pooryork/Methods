@@ -1,0 +1,11 @@
+C:\Универ\5 семестр\Методы вычислений\Methods\task9 - ModefiedEuler\task9 - ModefiedEuler\bin\Debug\netcoreapp2.1\task9 - ModefiedEuler.deps.json
+C:\Универ\5 семестр\Методы вычислений\Methods\task9 - ModefiedEuler\task9 - ModefiedEuler\bin\Debug\netcoreapp2.1\task9 - ModefiedEuler.runtimeconfig.json
+C:\Универ\5 семестр\Методы вычислений\Methods\task9 - ModefiedEuler\task9 - ModefiedEuler\bin\Debug\netcoreapp2.1\task9 - ModefiedEuler.runtimeconfig.dev.json
+C:\Универ\5 семестр\Методы вычислений\Methods\task9 - ModefiedEuler\task9 - ModefiedEuler\bin\Debug\netcoreapp2.1\task9 - ModefiedEuler.dll
+C:\Универ\5 семестр\Методы вычислений\Methods\task9 - ModefiedEuler\task9 - ModefiedEuler\bin\Debug\netcoreapp2.1\task9 - ModefiedEuler.pdb
+C:\Универ\5 семестр\Методы вычислений\Methods\task9 - ModefiedEuler\task9 - ModefiedEuler\obj\Debug\netcoreapp2.1\task9 - ModefiedEuler.csprojAssemblyReference.cache
+C:\Универ\5 семестр\Методы вычислений\Methods\task9 - ModefiedEuler\task9 - ModefiedEuler\obj\Debug\netcoreapp2.1\task9 - ModefiedEuler.csproj.CoreCompileInputs.cache
+C:\Универ\5 семестр\Методы вычислений\Methods\task9 - ModefiedEuler\task9 - ModefiedEuler\obj\Debug\netcoreapp2.1\task9 - ModefiedEuler.AssemblyInfoInputs.cache
+C:\Универ\5 семестр\Методы вычислений\Methods\task9 - ModefiedEuler\task9 - ModefiedEuler\obj\Debug\netcoreapp2.1\task9 - ModefiedEuler.AssemblyInfo.cs
+C:\Универ\5 семестр\Методы вычислений\Methods\task9 - ModefiedEuler\task9 - ModefiedEuler\obj\Debug\netcoreapp2.1\task9 - ModefiedEuler.dll
+C:\Универ\5 семестр\Методы вычислений\Methods\task9 - ModefiedEuler\task9 - ModefiedEuler\obj\Debug\netcoreapp2.1\task9 - ModefiedEuler.pdb
