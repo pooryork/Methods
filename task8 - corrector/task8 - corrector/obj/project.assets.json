@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Универ\\5 семестр\\Методы вычислений\\Methods\\task7 - EulerMethod\\task7 - EulerMethod\\task7 - EulerMethod.csproj",
-      "projectName": "task7 - EulerMethod",
-      "projectPath": "C:\\Универ\\5 семестр\\Методы вычислений\\Methods\\task7 - EulerMethod\\task7 - EulerMethod\\task7 - EulerMethod.csproj",
+      "projectUniqueName": "C:\\Универ\\5 семестр\\Методы вычислений\\Methods\\task8 - corrector\\task8 - corrector\\task8 - corrector.csproj",
+      "projectName": "task8 - corrector",
+      "projectPath": "C:\\Универ\\5 семестр\\Методы вычислений\\Methods\\task8 - corrector\\task8 - corrector\\task8 - corrector.csproj",
       "packagesPath": "C:\\Users\\artyo\\.nuget\\packages\\",
-      "outputPath": "C:\\Универ\\5 семестр\\Методы вычислений\\Methods\\task7 - EulerMethod\\task7 - EulerMethod\\obj\\",
+      "outputPath": "C:\\Универ\\5 семестр\\Методы вычислений\\Methods\\task8 - corrector\\task8 - corrector\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

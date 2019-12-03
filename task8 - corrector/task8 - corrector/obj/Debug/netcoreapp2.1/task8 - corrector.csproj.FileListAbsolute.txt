@@ -1,0 +1,11 @@
+C:\Универ\5 семестр\Методы вычислений\Methods\task8 - corrector\task8 - corrector\bin\Debug\netcoreapp2.1\task8 - corrector.deps.json
+C:\Универ\5 семестр\Методы вычислений\Methods\task8 - corrector\task8 - corrector\bin\Debug\netcoreapp2.1\task8 - corrector.runtimeconfig.json
+C:\Универ\5 семестр\Методы вычислений\Methods\task8 - corrector\task8 - corrector\bin\Debug\netcoreapp2.1\task8 - corrector.runtimeconfig.dev.json
+C:\Универ\5 семестр\Методы вычислений\Methods\task8 - corrector\task8 - corrector\bin\Debug\netcoreapp2.1\task8 - corrector.dll
+C:\Универ\5 семестр\Методы вычислений\Methods\task8 - corrector\task8 - corrector\bin\Debug\netcoreapp2.1\task8 - corrector.pdb
+C:\Универ\5 семестр\Методы вычислений\Methods\task8 - corrector\task8 - corrector\obj\Debug\netcoreapp2.1\task8 - corrector.csprojAssemblyReference.cache
+C:\Универ\5 семестр\Методы вычислений\Methods\task8 - corrector\task8 - corrector\obj\Debug\netcoreapp2.1\task8 - corrector.csproj.CoreCompileInputs.cache
+C:\Универ\5 семестр\Методы вычислений\Methods\task8 - corrector\task8 - corrector\obj\Debug\netcoreapp2.1\task8 - corrector.AssemblyInfoInputs.cache
+C:\Универ\5 семестр\Методы вычислений\Methods\task8 - corrector\task8 - corrector\obj\Debug\netcoreapp2.1\task8 - corrector.AssemblyInfo.cs
+C:\Универ\5 семестр\Методы вычислений\Methods\task8 - corrector\task8 - corrector\obj\Debug\netcoreapp2.1\task8 - corrector.dll
+C:\Универ\5 семестр\Методы вычислений\Methods\task8 - corrector\task8 - corrector\obj\Debug\netcoreapp2.1\task8 - corrector.pdb
